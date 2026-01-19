@@ -87,9 +87,3 @@
 </p>
 
 ---
-
-## Contact
-
-- GitHub: https://github.com/Xlangley
-
----
