@@ -82,8 +82,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xlangley&show_icons=true&theme=dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlangley&layout=compact&theme=dark" height="165" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&fontFamily=&preferLogin=true">    <img  alt="XLangley's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/XLangley?cardType=github&theme=dark&fontFamily=&preferLogin=true" /> </a>
 </p>
 
 ---
